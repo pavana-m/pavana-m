@@ -2,7 +2,9 @@
 
 <br />
 
-🎓 &nbsp;I'm a Computer Science enthusiast, willing to learn and work across technologies and domains. I'm currently learning python and web development.✨I love to explore new technologies and leverage them to solve real-life problems.
+🎓 &nbsp;I’m a Master’s student in Computer Science at California State University, Fullerton, with hands-on experience building scalable, data-driven applications across fraud detection, health analytics, and knowledge graph systems. My work spans full-stack development, cloud-native deployment, and machine learning, using technologies like Python, JavaScript/React, SQL/PostgreSQL, Flask, AWS, and Docker.
+
+I enjoy solving complex problems, whether that’s optimizing large-scale data pipelines, designing intuitive web interfaces, or automating workflows for faster, more reliable deployments. Passionate about turning ideas into robust, user-friendly products, I aim to create software that’s impactful, efficient, and built to last.
 
 <br />
 
