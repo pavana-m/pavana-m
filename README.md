@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Pavana M
+### Hi there 👋  I'm Pavana Manjunath
 
 <br />
 
